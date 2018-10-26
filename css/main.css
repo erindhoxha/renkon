@@ -982,6 +982,8 @@ textarea {
   .receipt-section h4 {
     font-size: 20px !important; } }
 @media screen and (min-width: 1024px) {
+  body .select-language {
+    width: 20% !important; }
   body .receipt-section h4 {
     font-size: 18px !important; }
   body .receipt-section h1 {
