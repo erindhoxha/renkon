@@ -1,3 +1,6 @@
+if (screen.width <= 700) {
+    document.location = "order.html";
+}
 // INCREMENT QTY
 function incrementValue()
 {
