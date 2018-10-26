@@ -6,7 +6,6 @@ function incrementValue()
     value++;
     document.getElementById('qty').value = value;
 }
-ssss
 $(".minus-button").on('click', function() {
     if ($("#qty").val() < 0) {
         $("#qty").val("0");
